@@ -3,7 +3,7 @@ class HighlightJS extends Plugin {
 	private $host;
 
 	function about() {
-		return array(1.0,
+		return array(null,
 			"Hightlights code blocks in articles using HighlightJS",
 			"fox");
 	}
